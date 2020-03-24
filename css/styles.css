@@ -1,0 +1,32 @@
+#walrus-showing {
+  display: none;
+}
+#panda-fadeIn{
+  display:none;
+}
+#koala-slideUp{
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+.clickable1 {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable1:hover {
+  text-decoration: underline;
+}
+.clickable2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable2:hover {
+  text-decoration: underline;
+}
